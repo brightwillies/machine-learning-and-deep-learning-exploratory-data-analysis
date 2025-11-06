@@ -31,17 +31,6 @@ A **complete, end-to-end EDA notebook** using a **synthetic but realistic** data
 
 ---
 
-## Why This Matters for Your Portfolio
-
-Shows you can:
-- **Diagnose** data quality issues systematically  
-- **Document** assumptions and cleaning logic clearly  
-- **Visualize** impact of fixes  
-- **Produce** clean, usable data from raw input  
-- **Structure** notebooks for clarity and reuse
-
----
-
 ## How to Use
 
 1. Clone the repo  
